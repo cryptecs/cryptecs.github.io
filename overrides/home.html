@@ -1,4 +1,9 @@
 {#-
+Copyright (c) 2022 - for information on the respective copyright owner
+see the NOTICE file and/or the repository https://github.com/cryptecs/cryptecs.github.io.
+
+SPDX-License-Identifier: CC-BY-4.0
+
 Derived work from https://github.com/squidfunk/mkdocs-material/blob/master/material/overrides/home.html
 -#}
 {% extends "main.html" %}
@@ -45,4 +50,6 @@ Derived work from https://github.com/squidfunk/mkdocs-material/blob/master/mater
 </section>
 {% endblock %}
 {% block content %}{% endblock %}
-{% block footer %}{% endblock %}
+{% block footer %}
+{% include "partials/footer.html" %}
+{% endblock %}
