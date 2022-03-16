@@ -1,0 +1,33 @@
+#
+# Copyright (c) 2022 - for information on the respective copyright owner
+# see the NOTICE file and/or the repository https://github.com/cryptecs/cryptecs.github.io.
+#
+# SPDX-License-Identifier: CC-BY-4.0
+#
+INHERIT: config/nav.yaml
+
+site_name: CRYPTECS
+site_url: https://cryptecs.eu/
+site_author: CRYPTECS Consortium
+site_description: >-
+  CRYPTECS Project Website
+copyright: "Copyright © 2022 The CRYPTECS Consortium"
+repo_url: https://github.com/cryptecs/cryptecs.github.io
+edit_uri: edit/master/docs
+theme:
+  name: material
+  features:
+    - navigation.expand
+    - navigation.indexes
+    - navigation.instant
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.top
+    - navigation.tracking
+  palette:
+    - scheme: slate
+      primary: red
+      accent: red
+  logo: assets/images/cryptecs-logo.png
+  favicon: assets/favicon.png
+  custom_dir: overrides

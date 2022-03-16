@@ -1,0 +1,48 @@
+{#-
+Derived work from https://github.com/squidfunk/mkdocs-material/blob/master/material/overrides/home.html
+-#}
+{% extends "main.html" %}
+{% block tabs %}
+{{ super() }}
+<style>.md-header {
+  position: initial
+}
+
+.md-main__inner {
+  margin: 0
+}
+
+.md-content {
+  display: none
+}
+
+@media screen and (min-width: 60em) {
+  .md-sidebar--secondary {
+    display: none
+  }
+}
+
+@media screen and (min-width: 76.25em) {
+  .md-sidebar--primary {
+    display: none
+  }
+}</style>
+<section class="mdx-container">
+  <div class="md-grid md-typeset">
+    <div class="mdx-hero">
+      <div class="mdx-hero__image">
+        <img src="assets/images/lifting-ppcts.png" alt="" width="300" draggable="false">
+      </div>
+      <div class="mdx-hero__content">
+        <h1>Lifting Privacy-Preserving Computing Technologies into the Cloud</h1>
+        <p>Franco/German ANR/BMBF-supported Publicly Funded Project</p>
+        <a href="https://github.com/cryptecs" class="md-button">
+          Get Involved
+        </a>
+      </div>
+    </div>
+  </div>
+</section>
+{% endblock %}
+{% block content %}{% endblock %}
+{% block footer %}{% endblock %}
