@@ -23,7 +23,7 @@ You can read more about this on [Fathom Analytics' website][fathom].
 The purpose of us using this software is to understand our website traffic in
 the most privacy-friendly way possible so that we can continually improve our
 website and business. The lawful basis as per the GDPR is "f); where our
-legitimate interests are to improve the Carbyne Stack website and open source
+legitimate interests are to improve the CRYPTECS website and open source
 project continually." As per the explanation, no personal data is stored over
 time.
 

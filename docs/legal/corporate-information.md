@@ -14,9 +14,9 @@ Dr. Markus Heyn, Rolf Najork
 
 ## Your contact at Robert Bosch GmbH
 
-Carbyne Stack Maintainers  
+CRYPTECS Maintainers  
 :material-email:
-[rng_cr_carbynestack@bosch.com](mailto:rng_cr_carbynestack@bosch.com)  
+[cryptecs-oss@googlegroups.com](mailto:cryptecs-oss@googlegroups.com)  
 :material-phone:
 +49(711)811-0
 
