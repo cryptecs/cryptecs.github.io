@@ -1,6 +1,8 @@
 # CRYPTECS Website
 
-This repository contains the source code for the 
+[![pre-commit](https://img.shields.io/badge/pre--commit-enabled-brightgreen?logo=pre-commit&logoColor=white)](https://github.com/pre-commit/pre-commit)
+
+This repository contains the source code for the
 [cryptecs.eu](https://www.cryptecs.eu) website.
 
 ## Developing
@@ -19,7 +21,7 @@ mkdocs serve
 
 ## License
 
-The CRYPTECS website is open-sourced under the Attribution 4.0 International 
+The CRYPTECS website is open-sourced under the Attribution 4.0 International
 (CC BY 4.0) license. See the [LICENSE](LICENSE) file for details.
 
 ### 3rd Party Licenses
