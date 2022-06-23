@@ -7,6 +7,7 @@
 MD013:
   code_blocks : false
   tables : false
+MD024: false
 MD033: false
 MD037: false
 MD046: false

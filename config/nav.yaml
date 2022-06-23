@@ -7,7 +7,9 @@
 nav:
   - Home: index.md
   - Mission: about/mission.md
-  - Deliverables: dissemination/deliverables.md
+  - Dissemination:
+      - Deliverables: dissemination/deliverables.md
+      - Publications: dissemination/publications.md
   - Legal Information:
       - Privacy Policy: legal/privacy-policy.md
       - Corporate Information: legal/corporate-information.md
