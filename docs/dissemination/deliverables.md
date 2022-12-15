@@ -20,3 +20,6 @@ you need access to deliverables classified as internal please get in touch
 ([:fontawesome-regular-file-pdf: .pdf][D5.1]{:target="_blank"})
 
 [D5.1]: https://drive.google.com/uc?export=download&id=1nko1yA2NtBruuSS8zauDklPD5qTxDEpF
+
+**D5.2** Service Encapsulation of PPC Techniques: Confidential MLaaS Inference
+and Training (:octicons-lock-24: Internal)
