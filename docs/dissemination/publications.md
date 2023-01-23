@@ -19,26 +19,44 @@ Tuples for MPC_. In Cryptology ePrint Archive, Paper 2022/667. <br>
 1. David Mestel, Johannes Müller, and Pascal Reisert: _How Efficient are Replay
 Attacks against Vote Privacy? A Formal Quantitative Analysis_. In 35th IEEE
 Computer Security Foundations Symposium, CSF 2022, Haifa, Israel, August 7-10,
-to appear. <br>
+pp. 179-194. <br>
+:material-file-document-outline: [Conference Version](https://doi.org/10.1109/CSF54842.2022.9979167) &emsp;
 :material-file-document-multiple-outline: [Technical Report](https://eprint.iacr.org/2022/743)
 
 1. Natasha Fernandes, Annabelle McIver, Catuscia Palamidessi, and Ming Ding:
 _Universal Optimality and Robust Utility Bounds for Metric Differential Privacy_.
 In 35th IEEE Computer Security Foundations Symposium, CSF 2022, Haifa, Israel,
-August 7-10, to appear. <br>
+August 7-10, pp. 348-363. <br>
+:material-file-document-outline: [Conference Version](https://doi.org/10.1109/CSF54842.2022.9919647) &emsp;
 :material-file-document-multiple-outline: [Technical Report](https://doi.org/10.48550/arXiv.2205.01258)
 
 1. Nicolas Huber, Ralf Küsters, Toomas Krips, Julian Liedtke, Johannes Müller,
 Daniel Rausch, Pascal Reisert, and Andreas Vogt: _Kryvos: Publicly
 Tally-Hiding Verifiable E-Voting_. In Proceedings of the 2022 ACM SIGSAC
 Conference on Computer and Communications Security, CCS 2022, Los Angeles, CA,
-USA, November 7-11, to appear. <br>
+USA, November 7-11, pp. 1443-1457. <br>
+:material-file-document-outline: [Conference Version](https://doi.org/10.1145/3548606.3560701) &emsp;
 :material-file-document-multiple-outline: [Technical Report](https://eprint.iacr.org/2022/1132)
+
+1. Filippo Galli, Sayan Biswas, Gangsoo Zeong, Tommaso Cucinotta, and Catuscia
+Palamidessi: _Group privacy for personalized federated learning_. International
+Workshop on Federated Learning: Recent Advances and New Challenges, in Conjunction
+with NeurIPS 2022, FL-NeurIPS'22, New Orleans, LA, USA, December 2. <br>
+:material-file-document-outline: [Workshop Version](https://openreview.net/forum?id=R45g30SnwsR) &emsp;
+:material-file-document-multiple-outline: [Technical Report](https://doi.org/10.48550/arXiv.2206.03396)
 
 1. Mayar Elfares, Zhiming Hu, Pascal Reisert, Andreas Bulling, and Ralf Küsters:
 _Federated Learning for Appearance-based Gaze Estimation in the Wild_.
 NeurIPS 2022 Gaze Meets ML Workshop, GMML 2022, New Orleans, LA, USA, December
-3, to appear in the Proceedings for Machine Learning Research (PMLR).
+3, to appear in the Proceedings for Machine Learning Research (PMLR). <br>
+:material-file-document-multiple-outline: [Technical Report](https://doi.org/10.48550/arXiv.2211.07330)
+
+### 2023
+
+1. Pascal Reisert, Marc Rivinius, Toomas Krips, and Ralf Küsters: _Overdrive
+LowGear 2.0: Reduced-Bandwidth MPC without Sacrifice_. In Proceedings of the
+2023 ACM Asia Conference on Computer and Communications Security, ASIACCS 2023,
+Melbourne, Australia, July 10-14, to appear.
 
 ## Talks
 
@@ -103,3 +121,10 @@ Conference, Virtual, October 26, 2021. <br>
 :material-web: [Website](https://mpcalliance.brighttalk.live/sponsor-bosch/) &emsp;
 :material-cast: [Tutorial](https://www.brighttalk.com/service/player/en-US/theme/default/channel/19132/webcast/515434/play?showChannelList=false)
 (requires registration)
+
+### 2022
+
+1. Jan Paul Reimann: _Secure Multiparty Computation – die Technologie der Zukunft_.
+Newspaper Report in Tagespiegel Background, November 28, 2022. <br>
+:material-newspaper: [Article](https://background.tagesspiegel.de/cybersecurity/secure-multiparty-computation-die-technologie-der-zukunft)
+(German)
