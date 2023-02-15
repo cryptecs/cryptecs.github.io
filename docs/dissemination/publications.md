@@ -53,6 +53,12 @@ NeurIPS 2022 Gaze Meets ML Workshop, GMML 2022, New Orleans, LA, USA, December
 
 ### 2023
 
+1. Divi De Lacour, Marc Lacoste, Mario Südholt, and Jacques Traoré: _Towards
+Scalable Resilient Federated Learning: A Fully Decentralised Approach_.
+Workshop on Pervasive and Resource-constrained AI, PeRConAI 2023, Atlanta,
+Georgia, USA, March 13-17, to appear. <br>
+:material-presentation: [Poster](https://www.dataia.eu/sites/default/files/styles/webp/public/inline-images/1%20FL-Day-2023-Poster-FDFL-Divi-de-Lacour_page-0001.webp?itok=1oX3r9kL) (at [DATAIA Workshop FL-Day](https://www.dataia.eu/actualites/replay-workshop-fl-day-decentralized-federated-learning-approaches-and-challenges))
+
 1. Pascal Reisert, Marc Rivinius, Toomas Krips, and Ralf Küsters: _Overdrive
 LowGear 2.0: Reduced-Bandwidth MPC without Sacrifice_. In Proceedings of the
 2023 ACM Asia Conference on Computer and Communications Security, ASIACCS 2023,
@@ -61,6 +67,11 @@ Melbourne, Australia, July 10-14, to appear.
 ## Talks
 
 ### 2022
+
+1. Bastien Vialla: _CRYPTECS_. Video Presentation at the Workshop
+interdisciplinaire sur la sécurité globale, WISG 2022, Online, January 26-26.
+<br>
+:material-video: [Video](https://drive.google.com/file/d/1bscDaNEs7AI1zDgzbOYGoKUvd4FY_MN_/view?usp=share_link)
 
 1. Catuscia Palamidessi: _Differential Privacy: From the Central Model to the
 Local Model and their Generalization_. Invited talk at the Collège de France,
@@ -96,11 +107,19 @@ Keynote at the Federated Logic Conference, FLoC 2022, Haifa, Israel, July
 
 1. Sven Trieflinger: _One year of Carbyne Stack - Retrospective and Outlook_.
 Contributed talk at CarbyneStackCon 2022, Stuttgart, Germany, October 27. <br>
-:material-text-short: [Abstract](https://carbynestack.io/community/csc/overview/#program)
+:material-text-short: [Abstract](https://carbynestack.io/community/events/csc22/#program) &emsp;
+:material-video: [Recording](https://media.video.bosch.com/media/One+year+of+Carbyne+Stack+-+Retrospective+and+Outlook/0_0bf5i0td)
+
+1. Vincent Rieder: _Cost-effective MPC from an offline phase with low
+communication_. Contributed talk at CarbyneStackCon 2022, Stuttgart, Germany,
+October 27. <br>
+:material-text-short: [Abstract](https://carbynestack.io/community/events/csc22/#program) &emsp;
+:material-video: [Recording](https://media.video.bosch.com/media/Cost-effective+MPC+from+an+offline+phase+with+low+communication/0_r7o1ieng)
 
 1. Pascal Reisert: _Generalized Tuples for MP-SPDZ_. Contributed talk at
 CarbyneStackCon 2022, Stuttgart, Germany, October 27. <br>
-:material-text-short: [Abstract](https://carbynestack.io/community/csc/overview/#program)
+:material-text-short: [Abstract](https://carbynestack.io/community/events/csc22/#program) &emsp;
+:material-video: [Recording](https://media.video.bosch.com/media/Generalized+Tuples+for+MP-SPDZ/0_xbchnv9y)
 
 ## Software
 
@@ -110,6 +129,12 @@ CarbyneStackCon 2022, Stuttgart, Germany, October 27. <br>
 Computation Platform_. <br>
 :material-web: [Website](https://carbynestack.io) &emsp; :material-github:
 [GitHub Organization](https://github.com/carbynestack)
+
+### 2023
+
+1. Orange S.A.: _Cryptecs/GPSGhoster_. Demonstrator of an Android App with
+Differential Privacy for Geolocalization. <br>
+:material-github: [Code](https://github.com/Orange-OpenSource/GPSGhoster)
 
 ## Miscellaneous
 
