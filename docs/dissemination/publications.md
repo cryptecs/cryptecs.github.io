@@ -62,6 +62,11 @@ Melbourne, Australia, July 10-14, to appear.
 
 ### 2022
 
+1. Bastien Vialla: _CRYPTECS_. Video Presentation at the Workshop
+interdisciplinaire sur la sécurité globale, WISG 2022, Online, January 26-26.
+<br>
+:material-video: [Video](https://drive.google.com/file/d/1bscDaNEs7AI1zDgzbOYGoKUvd4FY_MN_/view?usp=share_link)
+
 1. Catuscia Palamidessi: _Differential Privacy: From the Central Model to the
 Local Model and their Generalization_. Invited talk at the Collège de France,
 Sécurité du logiciel: quel rôle pour les langages de programmation? 2022, Paris,
