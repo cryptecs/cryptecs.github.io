@@ -53,6 +53,12 @@ NeurIPS 2022 Gaze Meets ML Workshop, GMML 2022, New Orleans, LA, USA, December
 
 ### 2023
 
+1. Divi De Lacour, Marc Lacoste, Mario Südholt, and Jacques Traoré: _Towards
+Scalable Resilient Federated Learning: A Fully Decentralised Approach_.
+Workshop on Pervasive and Resource-constrained AI, PeRConAI 2023, Atlanta,
+Georgia, USA, March 13-17, to appear. <br>
+:material-presentation: [Poster](https://www.dataia.eu/sites/default/files/styles/webp/public/inline-images/1%20FL-Day-2023-Poster-FDFL-Divi-de-Lacour_page-0001.webp?itok=1oX3r9kL) (at [DATAIA Workshop FL-Day](https://www.dataia.eu/actualites/replay-workshop-fl-day-decentralized-federated-learning-approaches-and-challenges))
+
 1. Pascal Reisert, Marc Rivinius, Toomas Krips, and Ralf Küsters: _Overdrive
 LowGear 2.0: Reduced-Bandwidth MPC without Sacrifice_. In Proceedings of the
 2023 ACM Asia Conference on Computer and Communications Security, ASIACCS 2023,
