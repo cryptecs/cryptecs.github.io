@@ -104,6 +104,12 @@ Contributed talk at CarbyneStackCon 2022, Stuttgart, Germany, October 27. <br>
 :material-text-short: [Abstract](https://carbynestack.io/community/events/csc22/#program) &emsp;
 :material-video: [Recording](https://media.video.bosch.com/media/One+year+of+Carbyne+Stack+-+Retrospective+and+Outlook/0_0bf5i0td)
 
+1. Vincent Rieder: _Cost-effective MPC from an offline phase with low
+communication_. Contributed talk at CarbyneStackCon 2022, Stuttgart, Germany,
+October 27. <br>
+:material-text-short: [Abstract](https://carbynestack.io/community/events/csc22/#program) &emsp;
+:material-video: [Recording](https://media.video.bosch.com/media/Cost-effective+MPC+from+an+offline+phase+with+low+communication/0_r7o1ieng)
+
 1. Pascal Reisert: _Generalized Tuples for MP-SPDZ_. Contributed talk at
 CarbyneStackCon 2022, Stuttgart, Germany, October 27. <br>
 :material-text-short: [Abstract](https://carbynestack.io/community/events/csc22/#program) &emsp;
