@@ -101,11 +101,13 @@ Keynote at the Federated Logic Conference, FLoC 2022, Haifa, Israel, July
 
 1. Sven Trieflinger: _One year of Carbyne Stack - Retrospective and Outlook_.
 Contributed talk at CarbyneStackCon 2022, Stuttgart, Germany, October 27. <br>
-:material-text-short: [Abstract](https://carbynestack.io/community/csc/overview/#program)
+:material-text-short: [Abstract](https://carbynestack.io/community/events/csc22/#program) &emsp;
+:material-video: [Recording](https://media.video.bosch.com/media/One+year+of+Carbyne+Stack+-+Retrospective+and+Outlook/0_0bf5i0td)
 
 1. Pascal Reisert: _Generalized Tuples for MP-SPDZ_. Contributed talk at
 CarbyneStackCon 2022, Stuttgart, Germany, October 27. <br>
-:material-text-short: [Abstract](https://carbynestack.io/community/csc/overview/#program)
+:material-text-short: [Abstract](https://carbynestack.io/community/events/csc22/#program) &emsp;
+:material-video: [Recording](https://media.video.bosch.com/media/Generalized+Tuples+for+MP-SPDZ/0_xbchnv9y)
 
 ## Software
 
