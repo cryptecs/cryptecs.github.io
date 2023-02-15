@@ -130,6 +130,12 @@ Computation Platform_. <br>
 :material-web: [Website](https://carbynestack.io) &emsp; :material-github:
 [GitHub Organization](https://github.com/carbynestack)
 
+### 2023
+
+1. Orange S.A.: _Cryptecs/GPSGhoster_. Demonstrator of an Android App with
+Differential Privacy for Geolocalization. <br>
+:material-github: [Code](https://github.com/Orange-OpenSource/GPSGhoster)
+
 ## Miscellaneous
 
 ### 2021
