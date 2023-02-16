@@ -10,7 +10,7 @@ GERMANY
 ## Members of the Board of Management
 
 Dr. Stefan Hartung, Dr. Christian Fischer, Filiz Albrecht, Dr. Markus Forschner,
-Dr. Markus Heyn, Rolf Najork
+Dr. Markus Heyn, Dr. Tanja Rückert
 
 ## Your contact at Robert Bosch GmbH
 
