@@ -64,6 +64,14 @@ LowGear 2.0: Reduced-Bandwidth MPC without Sacrifice_. In Proceedings of the
 2023 ACM Asia Conference on Computer and Communications Security, ASIACCS 2023,
 Melbourne, Australia, July 10-14, to appear.
 
+1. Marc Rivinius, Pascal Reisert, Sebastian Hasler, and Ralf Küsters:
+_Convolutions in Overdrive: Maliciously Secure Convolutions for MPC_. In
+Proceedings on Privacy Enhancing Technologies 2023(3) / 23rd Privacy Enhancing
+Technologies Symposium, PoPETs/PETS 2023, Lausanne, Switzerland and Online,
+July 10-15, to appear. <br>
+:material-file-document-multiple-outline: [Technical Report](https://eprint.iacr.org/2023/359) &emsp;
+:material-github: [Code](https://github.com/sec-stuttgart/MP-SPDZ-convolution-triples)
+
 ## Talks
 
 ### 2022
