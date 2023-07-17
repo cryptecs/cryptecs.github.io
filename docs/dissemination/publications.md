@@ -82,6 +82,7 @@ Technologies Symposium, PoPETs/PETS 2023, Lausanne, Switzerland and Online,
 July 10-15, pp. 321-353. <br>
 :material-file-document-outline: [Journal Version](https://doi.org/10.56553/popets-2023-0084) &emsp;
 :material-file-document-multiple-outline: [Technical Report](https://eprint.iacr.org/2023/359) &emsp;
+:material-presentation: [Slides](https://drive.google.com/file/d/1qKUnsqQYsJQi6bOoeUZMdbcYtB0OkiTc/view?usp=drive_link) &emsp;
 :material-github: [Code](https://github.com/sec-stuttgart/MP-SPDZ-convolution-triples)
 
 ## Talks
