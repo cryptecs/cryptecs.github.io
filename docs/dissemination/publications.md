@@ -46,9 +46,11 @@ with NeurIPS 2022, FL-NeurIPS'22, New Orleans, LA, USA, December 2. <br>
 :material-file-document-multiple-outline: [Technical Report](https://doi.org/10.48550/arXiv.2206.03396)
 
 1. Mayar Elfares, Zhiming Hu, Pascal Reisert, Andreas Bulling, and Ralf Küsters:
-_Federated Learning for Appearance-based Gaze Estimation in the Wild_.
-NeurIPS 2022 Gaze Meets ML Workshop, GMML 2022, New Orleans, LA, USA, December
-3, to appear in the Proceedings for Machine Learning Research (PMLR). <br>
+_Federated Learning for Appearance-based Gaze Estimation in the Wild_. In
+Proceedings of the 1st NeurIPS Gaze Meets ML Workshop / Proceedings of Machine
+Learning Research (Volume 210), GMML/PMLR 2022, New Orleans, LA, USA, December
+3, pp. 20-36. <br>
+:material-file-document-outline: [Workshop Version](https://proceedings.mlr.press/v210/elfares23a.html) &emsp;
 :material-file-document-multiple-outline: [Technical Report](https://doi.org/10.48550/arXiv.2211.07330)
 
 ### 2023
@@ -56,20 +58,31 @@ NeurIPS 2022 Gaze Meets ML Workshop, GMML 2022, New Orleans, LA, USA, December
 1. Divi De Lacour, Marc Lacoste, Mario Südholt, and Jacques Traoré: _Towards
 Scalable Resilient Federated Learning: A Fully Decentralised Approach_.
 Workshop on Pervasive and Resource-constrained AI, PeRConAI 2023, Atlanta,
-Georgia, USA, March 13-17, to appear. <br>
+Georgia, USA, March 13-17, pp. 621-627 <br>
+:material-file-document-outline: [Workshop Version](https://doi.org/10.1109/PerComWorkshops56833.2023.10150295) &emsp;
 :material-presentation: [Poster](https://www.dataia.eu/sites/default/files/styles/webp/public/inline-images/1%20FL-Day-2023-Poster-FDFL-Divi-de-Lacour_page-0001.webp?itok=1oX3r9kL) (at [DATAIA Workshop FL-Day](https://www.dataia.eu/actualites/replay-workshop-fl-day-decentralized-federated-learning-approaches-and-challenges))
+
+1. Konstantinos Chatzikokolakis, Giovanni Cherubin, Catuscia Palamidessi, and
+Carmela Troncoso: _Bayes Security: A Not So Average Metric_. In 36th IEEE
+Computer Security Foundations Symposium, CSF 2023, Dubrovnik, Croatia, July
+9-13, pp. 159-177. <br>
+:material-file-document-multiple-outline: [Technical Report](https://doi.org/10.48550/arXiv.2011.03396)
 
 1. Pascal Reisert, Marc Rivinius, Toomas Krips, and Ralf Küsters: _Overdrive
 LowGear 2.0: Reduced-Bandwidth MPC without Sacrifice_. In Proceedings of the
 2023 ACM Asia Conference on Computer and Communications Security, ASIACCS 2023,
-Melbourne, Australia, July 10-14, to appear.
+Melbourne, Australia, July 10-14, pp. 372-386. <br>
+:material-file-document-outline: [Conference Version](https://doi.org/10.1145/3579856.3582809) &emsp;
+:material-file-document-multiple-outline: [Technical Report](https://eprint.iacr.org/2023/462)
 
 1. Marc Rivinius, Pascal Reisert, Sebastian Hasler, and Ralf Küsters:
 _Convolutions in Overdrive: Maliciously Secure Convolutions for MPC_. In
 Proceedings on Privacy Enhancing Technologies 2023(3) / 23rd Privacy Enhancing
 Technologies Symposium, PoPETs/PETS 2023, Lausanne, Switzerland and Online,
-July 10-15, to appear. <br>
+July 10-15, pp. 321-353. <br>
+:material-file-document-outline: [Journal Version](https://doi.org/10.56553/popets-2023-0084) &emsp;
 :material-file-document-multiple-outline: [Technical Report](https://eprint.iacr.org/2023/359) &emsp;
+:material-presentation: [Slides](https://drive.google.com/file/d/1qKUnsqQYsJQi6bOoeUZMdbcYtB0OkiTc/view?usp=drive_link) &emsp;
 :material-github: [Code](https://github.com/sec-stuttgart/MP-SPDZ-convolution-triples)
 
 ## Talks
@@ -129,6 +142,23 @@ CarbyneStackCon 2022, Stuttgart, Germany, October 27. <br>
 :material-text-short: [Abstract](https://carbynestack.io/community/events/csc22/#program) &emsp;
 :material-video: [Recording](https://media.video.bosch.com/media/Generalized+Tuples+for+MP-SPDZ/0_xbchnv9y)
 
+### 2023
+
+1. Felix Schuster: _Introduction to confidential computing_. Keynote at the
+Open Confidential Computing Conference 2023, OC3 2023, Online, March 15. <br>
+:material-video: [Recording](https://www.youtube.com/watch?v=JF1qUMMxj5g&list=PLEhAl3D5WVvRm-U0mUK_Z7WLW_hbW9jdX)
+
+1. Malte Poll and Moritz Eckert: _Wrapping entire Kubernetes clusters into a
+confidential-computing envelope with Constellation_. Contributed talk at the
+Open Confidential Computing Conference 2023, OC3 2023, Online, March 15. <br>
+:material-video: [Recording](https://www.youtube.com/watch?v=HvFCWRlXVO4) &emsp;
+:material-presentation: [Slides](https://uploads-ssl.webflow.com/63c54a346e01f30e726f97cf/6418ed9840754525bcf9e8ff_20230315-OC3-Constellation%20(2).pdf)
+
+1. Sven Trieflinger: _Nettle - Privacy-Preserving FL based on Flower and
+Carbyne Stack_. Contributed talk at Flower Summit 2023, Cambridge, United
+Kingdom, May 30-31. <br>
+:material-video: [Recording](https://www.youtube.com/watch?v=jtqMTbf77E8)
+
 ## Software
 
 ### 2021
@@ -143,6 +173,13 @@ Computation Platform_. <br>
 1. Orange S.A.: _Cryptecs/GPSGhoster_. Demonstrator of an Android App with
 Differential Privacy for Geolocalization. <br>
 :material-github: [Code](https://github.com/Orange-OpenSource/GPSGhoster)
+
+1. Edgeless Systems GmbH: _Constellation - Always Encrypted Kubernetes_. <br>
+:material-github: [Code](https://github.com/edgelesssys/constellation)
+
+1. Robert Bosch GmbH: _Nettle - Flower-based Privacy-Preserving Federated
+Learning with secure aggregation using Carbyne Stack_. <br>
+:material-github: [Code](https://github.com/carbynestack/nettle)
 
 ## Miscellaneous
 
