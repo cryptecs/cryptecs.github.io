@@ -80,10 +80,21 @@ _Convolutions in Overdrive: Maliciously Secure Convolutions for MPC_. In
 Proceedings on Privacy Enhancing Technologies 2023(3) / 23rd Privacy Enhancing
 Technologies Symposium, PoPETs/PETS 2023, Lausanne, Switzerland and Online,
 July 10-15, pp. 321-353. <br>
-:material-file-document-outline: [Journal Version](https://doi.org/10.56553/popets-2023-0084) &emsp;
+:material-file-document-outline: [Conference Version](https://doi.org/10.56553/popets-2023-0084) &emsp;
 :material-file-document-multiple-outline: [Technical Report](https://eprint.iacr.org/2023/359) &emsp;
 :material-presentation: [Slides](https://drive.google.com/file/d/1qKUnsqQYsJQi6bOoeUZMdbcYtB0OkiTc/view?usp=drive_link) &emsp;
 :material-github: [Code](https://github.com/sec-stuttgart/MP-SPDZ-convolution-triples)
+
+1. Jordan Frery, Andrei Stoian, Roman Bredehoft, Luis Montero, Celia Kherfallah, Benoit Chevallier-Mames, and Arthur Meyre, Arthur: _Privacy-Preserving Tree-Based Inference with TFHE_. In Mobile, Secure, and Programmable Networking: 9th International Conference, MSPN 2023, Paris, France, October 26–27, pp. 139-156.<br>
+:material-file-document-outline: [Conference Version](https://doi.org/10.1007/978-3-031-52426-4_10)
+
+### 2024
+
+1. Sebastian Hasler, Pascal Reisert, Marc Rivinius and Ralf Küsters: _Multipars: Reduced-Communication MPC over Z2k_. In Proceedings on Privacy Enhancing Technologies, Bristol, United Kingdom, July 15-20, 2024 (to appear).<br>
+:material-file-document-outline: [Technical Report](https://eprint.iacr.org/2023/1932)
+
+1. Mayar Elfares, Pascal Reisert, Zhiming Hu, Wenwu Tang, Ralf Küsters, and Andreas Bulling: _PrivatEyes: Appearance-based Gaze Estimation Using Federated Secure Multi-Party Computation_. In ACM Symposium on Eye Tracking Research & Applications (ETRA), Glasgow, United Kingdom, June 4-7, 2024 (to appear).<br>
+:material-file-document-outline: [Technical Report](https://doi.org/10.48550/arXiv.2402.18970)
 
 ## Talks
 
@@ -158,6 +169,27 @@ Open Confidential Computing Conference 2023, OC3 2023, Online, March 15. <br>
 Carbyne Stack_. Contributed talk at Flower Summit 2023, Cambridge, United
 Kingdom, May 30-31. <br>
 :material-video: [Recording](https://www.youtube.com/watch?v=jtqMTbf77E8)
+
+1. Sven Trieflinger: _PETs of the world unite! Conquer the middle ground in the performance vs security spectrum_. Contributed talk at Open Source Summit Europe 2023, Confidential Computing Mini Summit, Bilbao, Spain, September 19-21. <br>
+:material-web: [Website](https://osseu2023.sched.com/event/1Our5/confidential-computing-mini-summit-additional-fee-pre-registration-required)
+&emsp; :material-video: [Recording](https://www.youtube.com/watch?v=iCnGgoZU708)
+
+1. Moritz Eckert: _Kubernetes Meets Confidential Computing - The Different Ways of Scaling Sensitive Workloads_. Contributed talk at Open Source Summit Europe 2023, Bilbao, Spain, September 19-21. <br>
+:material-presentation: [Slides](https://static.sched.com/hosted_files/osseu2023/2b/20230921-OSS-Bilbao.pdf) &emsp; :material-video: [Recording](https://osseu2023.sched.com/event/1OGis/kubernetes-meets-confidential-computing-the-different-ways-of-scaling-sensitive-workloads-moritz-eckert-edgeless-systems)
+
+1. Bastien Vialla: _FHE & AI: a Concrete Use-Case_. Contributed talk at Séminaire Algorithmique, GREYC Laboratoire de recherche en sciences du numérique, Caen, France, November 7. 
+
+1. Sven Trieflinger: _Towards an Ecosystem for Open Cloud-Native Secure Multiparty Computation_, Contributed talk at CarbyneStackCon 2023, Renningen, Germany, November 30.<br>
+:material-video: [Recording](https://bosch-ext.mediaspace.de.kaltura.com/media/Towards+an+Ecosystem+for+Open+Cloud-Native+Secure+Multiparty+Computation/0_3yk5mxli)
+
+1. Otto Bittner: _Stacking Stacks: A Case Study on running Carbyne Stack on Constellation_, Contributed talk at CarbyneStackCon 2023, Renningen, Germany, November 30.<br>
+:material-video: [Recording](https://bosch-ext.mediaspace.de.kaltura.com/media/Stacking+StacksA+A+Case+Study+on+running+Carbyne+Stack+on+Constellation/0_0hh1u8fh)
+
+1. Sven Trieflinger: _Carbyne Stack – Towards cloud-native enterprise-grade open MPC_, Contributed talk at Cloud Native Community Ruhr December Meetup, Bochum, Germany, December 5.
+:material-video: [Recording](https://www.youtube.com/watch?v=1lmCwIuL3mI)
+
+1. Moritz Eckert: _Confidential Cloud Native AI & ML - Unlocking new opportunities_, Contributed talk at Cloud Native Community Ruhr December Meetup, Bochum, Germany, December 5.<br>
+:material-video: [Recording](https://www.youtube.com/watch?v=fHSTQYwsCr8)
 
 ## Software
 
