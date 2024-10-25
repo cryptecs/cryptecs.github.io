@@ -210,7 +210,6 @@ Kingdom, May 30-31. <br>
 1. Sebastian Hasler: _Multipars: Reduced-Communication MPC over Z2k_. In Theory and Practice of Multi-Party Computation Workshop (TPMPC'24), Darmstadt, Germany, June 3-6.<br>
 :material-video: [Recording](https://www.youtube.com/watch?v=H6x3DhsbP78)
 
-
 ## Software
 
 ### 2021
