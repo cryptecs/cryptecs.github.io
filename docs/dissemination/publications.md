@@ -90,11 +90,25 @@ July 10-15, pp. 321-353. <br>
 
 ### 2024
 
-1. Sebastian Hasler, Pascal Reisert, Marc Rivinius and Ralf Küsters: _Multipars: Reduced-Communication MPC over Z2k_. In Proceedings on Privacy Enhancing Technologies, Bristol, United Kingdom, July 15-20, 2024 (to appear).<br>
+1. Sebastian Hasler, Pascal Reisert, Marc Rivinius and Ralf Küsters: _Multipars: Reduced-Communication MPC over Z2k_. In Proceedings on Privacy Enhancing Technologies, Bristol, United Kingdom, July 15-20, 2024.<br>
+:material-file-document-outline: [Conference Version](https://petsymposium.org/popets/2024/popets-2024-0038.pdf) &emsp;
 :material-file-document-outline: [Technical Report](https://eprint.iacr.org/2023/1932)
 
-1. Mayar Elfares, Pascal Reisert, Zhiming Hu, Wenwu Tang, Ralf Küsters, and Andreas Bulling: _PrivatEyes: Appearance-based Gaze Estimation Using Federated Secure Multi-Party Computation_. In ACM Symposium on Eye Tracking Research & Applications (ETRA), Glasgow, United Kingdom, June 4-7, 2024 (to appear).<br>
+1. Mayar Elfares, Pascal Reisert, Zhiming Hu, Wenwu Tang, Ralf Küsters, and Andreas Bulling: _PrivatEyes: Appearance-based Gaze Estimation Using Federated Secure Multi-Party Computation_. In ACM Symposium on Eye Tracking Research & Applications (ETRA), Glasgow, United Kingdom, June 4-7, 2024.<br>
 :material-file-document-outline: [Technical Report](https://doi.org/10.48550/arXiv.2402.18970)
+
+1. Vincent Rieder: _Generation of Authenticated Secret-Shared Scaled Unit Vectors for Beaver Triples_. In 31st International Conference on Selected Areas in Cryptography (SAC), Montréal, Québec, Canada, August 28-30, 2024.
+
+1. Mohamed Ghamri, Marc Lacoste and Divi De Lacour: _Disaggregation Patterns for Secure AI Systems_. In 28th Annual IEEE High Performance Extreme Computing Virtual Conference (HPEC), Poster Session, Boston, Massachusetts, USA, 23-27 September 2024.<br>
+:material-file-document-outline: [Conference Version](https://ieee-hpec.org/wp-content/uploads/2024/09/82.pdf) &emsp;
+:material-file-document-multiple-outline: [Technical Report](https://inria.hal.science/hal-04717976) &emsp;
+:material-presentation: [Poster](https://inria.hal.science/hal-04717976v1/file/HPEC-2024-Disaggregation-Patterns-Poster.pdf) 
+
+1. Andreas Athanasiou, Kangsoo Jung, Catuscia Palamidessi: _Protecting against a subtype of Membership Inference Attack in Federated Learning, using trusted shuffling and unary encoding_. In ACM Conference on Computer and Communications Security (CCS), Salt Lake City, October 14-18, 2024.<br>
+:material-file-document-outline: [Technical Report](https://hal.science/hal-04707344v1/document)
+
+1. Pascal Reisert, Marc Rivinius, Toomas Krips, Sebastian Hasler and Ralf Küsters: _Actively Secure Polynomial Evaluation from Shared Polynomial Encodings_. In International Conference on the Theory and Application of Cryptology and Information Security (ASIACRYPT 2024), Kolkota, India, December 9-13, 2024 (to appear).<br>
+:material-file-document-outline: [Technical Report](https://eprint.iacr.org/2024/1435)
 
 ## Talks
 
@@ -191,6 +205,12 @@ Kingdom, May 30-31. <br>
 1. Moritz Eckert: _Confidential Cloud Native AI & ML - Unlocking new opportunities_, Contributed talk at Cloud Native Community Ruhr December Meetup, Bochum, Germany, December 5.<br>
 :material-video: [Recording](https://www.youtube.com/watch?v=fHSTQYwsCr8)
 
+### 2024
+
+1. Sebastian Hasler: _Multipars: Reduced-Communication MPC over Z2k_. In Theory and Practice of Multi-Party Computation Workshop (TPMPC'24), Darmstadt, Germany, June 3-6.<br>
+:material-video: [Recording](https://www.youtube.com/watch?v=H6x3DhsbP78)
+
+
 ## Software
 
 ### 2021
@@ -212,6 +232,11 @@ Differential Privacy for Geolocalization. <br>
 1. Robert Bosch GmbH: _Nettle - Flower-based Privacy-Preserving Federated
 Learning with secure aggregation using Carbyne Stack_. <br>
 :material-github: [Code](https://github.com/carbynestack/nettle)
+
+### 2024
+
+1. Edgeless Systems GmbH: _Continuum AI Documentation_. <br>
+:material-web: [Website](https://docs.edgeless.systems/continuum/)
 
 ## Miscellaneous
 
